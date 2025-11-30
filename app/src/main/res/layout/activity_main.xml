@@ -5,16 +5,28 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="24dp"
-    android:background="#FAFAFA">
+    android:background="#E3F2FD">
 
     <TextView
         android:text="Welcome to Study Buddy!"
-        android:textSize="24sp"
+        android:textSize="26sp"
         android:textStyle="bold"
-        android:layout_marginBottom="16dp" />
+        android:textColor="#0D47A1"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:text="Plan better. Study smarter."
+        android:textSize="16sp"
+        android:textColor="#1976D2"
+        android:layout_marginBottom="24dp" />
 
     <Button
         android:text="Create Study Group"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:background="#0D47A1"/>
 </LinearLayout>
+
