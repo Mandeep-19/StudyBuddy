@@ -1,0 +1,27 @@
+Users
+  - userID
+  - name
+  - email
+  - password
+
+Groups
+  - groupID
+  - topic
+  - description
+  - date
+  - time
+  - createdBy
+
+Messages
+  - messageID
+  - senderID
+  - groupID
+  - content
+  - timestamp
+
+Reminders
+  - reminderID
+  - userID
+  - groupID
+  - message
+  - date

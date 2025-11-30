@@ -1,0 +1,24 @@
+# Study Buddy: Group Study Organizer
+
+**Author:** Mandeep (200599770)
+**Course:** 25F Mobile and Pervasive Computing – 201
+**Instructor:** Sandhya
+**Date:** October 29, 2025
+
+## Purpose
+Study Buddy helps students create, join, and manage group study sessions.
+It improves collaboration, communication, and organization among classmates.
+
+## Planned Technologies
+- Android Studio (Kotlin)
+- Firebase Firestore (NoSQL Database)
+- Firebase Authentication
+- Material Design Components
+
+## Planned Features
+- Login & Signup
+- Create and Join Study Groups
+- Chat Messaging
+- Reminders for Study Sessions
+- Notifications
+- Profile & Settings
